@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
-    "tinymce": "^5.2.1",
+    "tinymce": "^5.10.7",
     "vue": "^2.6.11"
   },
   "devDependencies": {
